@@ -8,3 +8,6 @@ The **Random Color Generator** is a simple web application that creates 32 block
 - **User Interaction**: Colors are generated when the user clicks the "GENERATE" button.
 - **Hex Color Copy**: Click on a color block to copy its hex color code to the clipboard.
 - **Responsive Design**: The layout adjusts for different screen sizes and devices.
+
+## Try it out
+You can start using the Random Color Generator here: [Random Color Generator](https://prmkvlad.github.io/random-color-generator/).
