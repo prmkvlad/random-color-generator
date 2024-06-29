@@ -113,6 +113,7 @@ svg *[stroke] {
 	flex-direction: column;
 	align-items: center;
 	margin-bottom: 40px;
+	text-align: center;
 }
 
 .title {
@@ -179,4 +180,5 @@ svg *[stroke] {
 	cursor: pointer;
 	border-radius: 15px;
 	background-color: transparent;
+	color: white;
 }
